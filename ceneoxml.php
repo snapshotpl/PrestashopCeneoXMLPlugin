@@ -15,7 +15,7 @@ class CeneoXml extends Module
         //hack for version 1.5
         $ps_version_max = PrestaShopHelper::GetPSVersionBasePart(_PS_VERSION_) == '1.5' ? '1.6' : _PS_VERSION_;
         
-        $this->name = 'PrestashopCeneoXMLPlugin-ceneoxml';
+        $this->name = 'ceneoxml';
         $this->tab = 'market_place';
         $this->version = '1.1.0';
         $this->author = 'Ceneo Sp. z o.o.';
