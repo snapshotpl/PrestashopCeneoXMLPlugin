@@ -13,7 +13,7 @@ class UrlProviderFactory
                 return new UrlProvider_1_5($context);
                 break;
 
-            case '1.6':
+            default:
                 return new UrlProvider_1_6($context);
                 break;
         }

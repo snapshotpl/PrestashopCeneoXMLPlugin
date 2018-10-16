@@ -14,7 +14,7 @@ class SqlQueryProviderFactory
                 return new SqlQueryProvider_1_5($context);
                 break;
 
-            case '1.6':
+            default:
                 return new SqlQueryProvider_1_6($context);
                 break;
         }		
