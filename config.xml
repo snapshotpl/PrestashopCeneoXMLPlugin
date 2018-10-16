@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
         <module>
-            <name>ceneoxml</name>
+            <name>PrestashopCeneoXMLPlugin-ceneoxml</name>
             <displayName><![CDATA[Ceneo XML]]></displayName>
             <version><![CDATA[1.0.0]]></version>
             <description><![CDATA[Moduł Ceneo XML pozwala na integrację sklepu PrestaShop z por&oacute;wnywarką cen Ceneo.pl. W szybki spos&oacute;b generuje poprawny dokument XML z ofertami. Copyright &copy; 2016 Ceneo.pl. All rights reserved.]]></description>
