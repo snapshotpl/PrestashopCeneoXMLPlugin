@@ -35,6 +35,6 @@ class PriceCalculator
             }
         }	
 
-        return self::CalculateValueWithTax($price, $tax) - $price_reduction;	
+        return self::CalculateValueWithTax($price, $tax);
     }
 }
